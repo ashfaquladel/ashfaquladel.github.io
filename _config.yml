@@ -1,0 +1,36 @@
+# site settings
+title: Ashfaqul Adel
+subtitle:
+email: ashfaquladel@gmail.com
+description: (#1) Introduction introduction introduction introduction introduction introduction introduction introduction
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: Bogra
+state: 
+zip_code: 5800
+country: Bangladesh
+phone: +88 01772 713890
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 5
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/ashfaqul.adel
+github_url: https://github.com/ashfaquladel
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/ashfaqul.adel
+linkedin_url: https://www.linkedin.com/in/ashfaquladel/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/siam_rocks
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
