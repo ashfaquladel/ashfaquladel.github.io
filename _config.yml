@@ -6,7 +6,7 @@ description: (#1) Introduction introduction introduction introduction introducti
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 
+street_address: Rahman Nagar
 city: Bogra
 state: 
 zip_code: 5800
