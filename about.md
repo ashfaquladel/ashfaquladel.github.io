@@ -2,7 +2,7 @@
 layout: post
 title: About Myself
 description: What I've been up to
-image: assets/images/banner.jpg
+image: assets/images/about me.jpg
 image-type: right
 nav-menu: true
 ---
