@@ -40,11 +40,11 @@ nav-menu: true
 		<h3>Amar Language</h3>
 		<p>Implementation of self made programming language in Compiler Design Laboratory Course.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>Karzokrom</h3>
 		<p>Daily life activities notepad application for iOS in Swift.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>UNIX ls command</h3>
 		<p>Implementation of UNIX ls command in Operating Systems Laboratory Course.</p>
 	</div>
