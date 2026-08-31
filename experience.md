@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Experience & Education</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>I'm a Software Engineer at Optimizely with around 3 years of experience working across both frontend and backend. Alongside my full-time role, I build and sell digital products on platforms like Amazon KDP and Gumroad. I hold a Bachelor of Science degree in Computer Science & Engineering from Khulna University of Engineering & Technology.</p>
 	</div>
 </section>
 
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Software Engineer @ Optimizely</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Around 3 years of experience building and maintaining both frontend and backend systems as a Software Engineer at Optimizely.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="https://www.optimizely.com" target="_blank" rel="noopener noreferrer" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>B.Sc. in CSE, KUET</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Bachelor of Science degree in Computer Science & Engineering from Khulna University of Engineering & Technology.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="https://www.kuet.ac.bd" target="_blank" rel="noopener noreferrer" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,9 +60,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Digital Products</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Building and selling digital products on platforms like Amazon KDP and Gumroad.</p>
 				<ul class="actions">
 					<li><a href="about.html" class="button">Learn more</a></li>
 				</ul>

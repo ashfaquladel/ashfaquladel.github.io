@@ -7,6 +7,8 @@ image-type: right
 nav-menu: true
 ---
 
-I am currently pursuing a Bachelor of Science degree in Computer Science & Engineering at Khulna University of Engineering & Technology. I completed my Higher School Certificate (HSC) at Government Azizul Haque College in Bogra and my Secondary School Certificate (SSC) at Bogra Zilla School in Bogra.
+I am currently working as a Software Engineer at Optimizely, where I have spent around 3 years building and maintaining both frontend and backend systems.
 
+Alongside my full-time role, I spend time building and selling digital products on platforms like Amazon KDP and Gumroad.
 
+I hold a Bachelor of Science degree in Computer Science & Engineering from Khulna University of Engineering & Technology.
